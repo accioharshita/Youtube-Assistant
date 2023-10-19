@@ -18,4 +18,4 @@ openai_api_key= "YOUR SECRET KEY"
 
 - After that you can refer the code and the requirements.txt file. Happy creating :)
 
-![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81qFj8HBn9kG9dmNR6IMLLzd6v4iH1SpMmE-Boxs3it2PLSDapEVRbPNkkbHDN-usWCVdS9DOwVRU12_dmADqlzGGbebEg=s1600)
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*TpyOMCoo0QC86Qcb9Q0aUg.png)
