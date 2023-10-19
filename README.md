@@ -1,5 +1,7 @@
 # Youtube-Assistant
 
+![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*TpyOMCoo0QC86Qcb9Q0aUg.png)
+
 - This is a simple Youtube Assistant, which takes `URL` of any youtube video, along with the `questions` about the video as the input from the user and gives the best possible answer.
 
 - You can save so much time by simply asking the model the right questions, the perfect personal assistant for busy days.
@@ -18,4 +20,4 @@ openai_api_key= "YOUR SECRET KEY"
 
 - After that you can refer the code and the requirements.txt file. Happy creating :)
 
-![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*TpyOMCoo0QC86Qcb9Q0aUg.png)
+
